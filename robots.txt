@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zitapojeqobu.pages.dev/sitemap.xml
